@@ -1,4 +1,6 @@
+
 {
+  "type": "module",
   "name": "wilders",
   "version": "1.0.0",
   "description": "",
@@ -6,6 +8,7 @@
   "scripts": {
     "start": "node script.js"
   },
+  
   "repository": {
     "type": "git",
     "url": "git+https://github.com/r8ch/wilders.git"
