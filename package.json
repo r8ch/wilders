@@ -1,0 +1,23 @@
+{
+  "name": "wilders",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js"
+  },
+  "repository": {
+    "type": "module",
+    "url": "git+https://github.com/r8ch/wilders.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/r8ch/wilders/issues"
+  },
+  "homepage": "https://github.com/r8ch/wilders#readme",
+  "dependencies": {
+    "chalk": "^5.0.1"
+  }
+}
